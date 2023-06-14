@@ -1,4 +1,4 @@
-to run the project do next steps:
+To run the project do next steps:
 1. npm install
 2. npm run dev
 
