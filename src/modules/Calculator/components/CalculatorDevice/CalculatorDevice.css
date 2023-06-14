@@ -1,0 +1,27 @@
+.calculator {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .c-value {
+    grid-column: 1 / span 4;
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: right;
+  }
+  
+  .c-button {
+    background-color: #e6e6e6;
+    border: none;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .c-button:hover {
+    background-color: #d9d9d9;
+  }

@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid grey;
+  border-radius: 12px;
+  width: fit-content;
+}
+
+.userName,
+.email {
+  margin-bottom: 8px;
+}
+
+.error {
+  margin-bottom: 12px;
+  color: orangered;
+  align-self: end;
+}
+
+.submitButton {
+  align-self: flex-end;
+}

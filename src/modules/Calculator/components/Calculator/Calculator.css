@@ -1,0 +1,21 @@
+.content {
+  padding: 40px;
+}
+
+.header {
+  padding: 20px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoutButton {
+  margin: 0 12px;
+}
+
+.userInfo strong {
+  font-weight: 600;
+}

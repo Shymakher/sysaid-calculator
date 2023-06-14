@@ -1,0 +1,7 @@
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 300px;
+  width: 300px;
+}
