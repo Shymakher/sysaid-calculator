@@ -1,6 +1,6 @@
 to run the project do next steps:
-npm install
-npm run dev
+1. npm install
+2. npm run dev
 
 Things that need to be done:
 1. Optimize the child components to prevent them from rendering(by using React.memo)
